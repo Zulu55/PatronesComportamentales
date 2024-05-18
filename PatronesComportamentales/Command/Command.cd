@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Command.AddTaskCommand">
+    <Position X="3" Y="5.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAgAgAAAAAAAAAQAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AddTaskCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Command.CommandManager">
+    <Position X="5.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AIIAAAAAAAAEBAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CommandManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Command.CompleteTaskCommand">
+    <Position X="5.25" Y="5.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAgAgAAAAAAAAAQAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CompleteTaskCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Program">
+    <Position X="6.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Command.TaskManager">
+    <Position X="3" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAgABCAAAAAAAAgAAAAAAAAAgAAAABAAAAAAAAAEAAA=</HashCode>
+      <FileName>TaskManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Command.ICommand">
+    <Position X="4.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ICommand.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
